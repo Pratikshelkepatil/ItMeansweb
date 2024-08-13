@@ -1,0 +1,21 @@
+body{
+    border: 100px;
+    border-color: rgb(22, 41, 126);
+    inline-size: 100%;
+}
+@media (max-width: 480px) {
+    .contact-detail {
+        margin: 15px 10px 0 20px;
+        margin-top: 15px;
+        margin-right: 10px;
+        margin-bottom: 0px;
+        margin-left: 20px;}
+    }
+   
+    .abc{
+        display:inline-flex;
+        align-self: start;
+        top: 20%;
+        position: relative;
+        left: 1%;
+    }
